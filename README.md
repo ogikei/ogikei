@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogikei&count_private=true&theme=buefy&langs_count=10&hide_border" alt="ogikei Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogikei&count_private=true&theme=buefy&langs_count=10&hide_border=true" alt="ogikei Stats" />
 </a>
 
 <!--
