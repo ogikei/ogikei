@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ogikei&count_private=true&show_icons=true&show_owner=true" alt="ogikei" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ogikei&count_private=true&show_icons=true&show_owner=true&theme=buefy" alt="ogikei Stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogikei" alt="aaaaaa" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogikei&theme=buefy&langs_count=10" alt="ogikei Stats" />
 </a>
 
 <!--
