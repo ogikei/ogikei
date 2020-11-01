@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ogikei&count_private=true&show_icons=true&show_owner=true&theme=buefy&hide_border=true" alt="ogikei Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ogikei&count_private=true&show_icons=true&show_owner=true&theme=buefy&hide_border=true&bg_color=876789,f98008,876587,897098,ffff87" alt="ogikei Stats" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
