@@ -1,17 +1,15 @@
 ### Hi there 👋
 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=ogikei&count_private=true&show_icons=true&show_owner=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&bg_color=120,FFBEBB,43ABF6&langs_count=10" alt="ogikei Stats" />
+</a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ogikei&count_private=true&show_icons=true&show_owner=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&bg_color=120,FFBEBB,43ABF6" alt="ogikei Stats" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogikei&count_private=true&show_icons=true&show_owner=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&bg_color=120,FFBEBB,43ABF6&langs_count=10" alt="ogikei Stats" />
-</a>
-
-<br>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=ogikei&count_private=true&show_icons=true&show_owner=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&bg_color=120,FFBEBB,43ABF6&langs_count=10" alt="ogikei Stats" />
 </a>
 
 <!--
