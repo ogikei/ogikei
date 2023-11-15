@@ -1,4 +1,8 @@
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ogikei)](https://github.com/ogikei)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogikei&layout=compact)](https://github.com/ogikei)
+
+<!--
+[![ github stats](https://github-readme-stats.vercel.app/api?username=ogikei)](https://github.com/ogikei)
+-->
 
 <!--
 <a href="https://github.com/ryo-ma/github-profile-trophy">
