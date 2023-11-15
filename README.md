@@ -1,4 +1,4 @@
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=deepajarout)](https://github.com/deepajarout)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ogikei)](https://github.com/ogikei)
 
 <!--
 <a href="https://github.com/ryo-ma/github-profile-trophy">
